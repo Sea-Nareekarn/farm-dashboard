@@ -1,2 +1,2 @@
-# farm-expense-profit-tracker
-Farm Expense &amp; Profit Tracker
+# farm-dashboard
+Farm Dashboard
