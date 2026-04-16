@@ -7,7 +7,7 @@
 
 ---
 
-## 🇺🇸 Project Overview
+## Project Overview
 The **Farm Dashboard Frontend** is a modern, responsive web application designed to manage agri-business financial data. Built with **Next.js 15**, it provides a seamless user experience for tracking income and expenses directly from the farm.
 
 ---
